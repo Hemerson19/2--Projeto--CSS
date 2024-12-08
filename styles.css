@@ -95,13 +95,12 @@ p {
     max-width: 100%;
     height: auto;
     position: relative;
-    margin: 5% auto;
+    margin: 10%;
   }
 
   section {
     max-width: 100%;
     height: auto;
-    margin: 50px auto;
     text-align: center;
   }
 
